@@ -1,8 +1,7 @@
 ## Olá! Eu sou "therod1708" 
 
 - 🔭 I’m currently working on ... i'm just studyng ( estou apenas estudando )
-- 🌱 I’m currently learning ... web devolopment ( desenvolvimento web )
-- 😄 Pronouns: ... Ele / dele 
+- 🌱 I’m currently learning ... web devolopment ( desenvolvimento web ) 
 - 
 
 <div>
