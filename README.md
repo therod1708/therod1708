@@ -1,4 +1,4 @@
-## Olá! Eu sou "therod1708" 
+## Olá! Eu sou Rodrigo Viana
 
 - 🔭 I’m currently working on ... i'm just studyng ( estou apenas estudando )
 - 🌱 I’m currently learning ... web devolopment ( desenvolvimento web ) 
